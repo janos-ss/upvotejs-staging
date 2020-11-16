@@ -1,3 +1,4 @@
+// yeay
 function foo(a) {
   bar(a);
 }
