@@ -1,4 +1,4 @@
-// yeay
+// test 2
 function foo(a) {
   bar(a);
 }
